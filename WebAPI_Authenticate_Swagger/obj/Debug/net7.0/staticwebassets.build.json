@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pO/GaQN1mzUqWOtdbty7k9pESUe7s4p3tZoqwmeF1l8=",
+  "Source": "WebAPI_Authenticate_Swagger",
+  "BasePath": "_content/WebAPI_Authenticate_Swagger",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
